@@ -8,4 +8,4 @@ This project ranks influencers based on followers, engagement, and posts using a
 - Displays top influencers
 
 ## Author
-Vivek
+Vivek Vishvanath Baganavar
